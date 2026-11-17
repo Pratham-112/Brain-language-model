@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+mne
+scikit-learn
+joblib
+tqdm
+# Install torch and torch-geometric separately using their official
+# compatibility instructions for your Python/CUDA environment.
